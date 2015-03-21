@@ -2,7 +2,7 @@
 ## functions do
 
 ## This function creates a pointer to an environment where the inverse of 
-##      a matrix can be cached 
+##      a matrix can be cached .
 
 makeCacheMatrix <- function(x = matrix()) {
         ## initialise cached inverse
